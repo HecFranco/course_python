@@ -115,6 +115,34 @@ General Options:
 
 [Volver al inicio](#-instalación-de-python-en-windows)
 
+### DESCARGAR NUEVO MÓDULO PIP
+
+---------------------------------------------------------------------------
+
+Ahora que ya tienes pip, resultará fácil instalar los módulos de Python dado que el programa hace todo el trabajo por ti. Cuando encuentres un módulo que quieras utilizar, generalmente tendrá documentación o instrucciones de instalación que incluyan el comando **pip** necesario, como:
+
+```bash
+pip install requests
+pip install beautifulsoup4
+pip install simplekml
+```
+
+Como ya se dijo, recuerda que probablemente necesitarás ejecutar `pip` con `sudo` (permisos de administrador) en **Mac** y **Linux** (no en Windows).
+
+```bash
+sudo pip install requests
+```
+
+[Volver al inicio](#-instalación-de-python-en-windows)
+
+### DESCARGAR NUEVO MÓDULO PIP
+
+---------------------------------------------------------------------------
+
+* [https://pypi.org/](https://pypi.org/)
+
+[Volver al inicio](#-instalación-de-python-en-windows)
+
 ## EJECUTAR NUESTRO PRIMER SCRIPT DE PYTHON EN CONSOLA
 
 ---------------------------------------------------------------------------

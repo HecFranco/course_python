@@ -325,9 +325,9 @@ La función `len()` también funciona con las listas del mismo modo que en las c
 ```python
 letras = ['a','b','c','d','e','f']
 len(letras)
-# 0
-pares = [0, 2, 4, 5, 8, 10, 12, 14]
-len(pares)
+# 6
+lista = [0, 2, 4, 5, 8, 10, 12, 14]
+len(lista)
 # 8
 ```
 
